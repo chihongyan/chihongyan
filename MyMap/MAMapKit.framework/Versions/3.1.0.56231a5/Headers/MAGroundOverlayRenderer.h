@@ -26,4 +26,6 @@
  */
 - (id)initWithGroundOverlay:(MAGroundOverlay *)groundOverlay;
 
+/*************************/
+
 @end
